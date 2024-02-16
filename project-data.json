@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "ipsum",
+      "technologies": [],
+      "live_link": "ipsum link",
+      "github_link": "ipsum github link",
+      "image_urls": []
+    }
+  ]
+}
