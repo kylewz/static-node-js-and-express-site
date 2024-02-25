@@ -4,7 +4,7 @@
       "id": 0,
       "project_name": "A Random Quote Generator",
       "description": "ipsum",
-      "technologies": [],
+      "technologies": ["HTML", "CSS", "JS"],
       "live_link": "ipsum link",
       "github_link": "ipsum github link",
       "image_urls": []
@@ -13,7 +13,7 @@
       "id": 1,
       "project_name": "Data Pagination and Filtering",
       "description": "ipsum",
-      "technologies": [],
+      "technologies": ["HTML", "CSS", "JS"],
       "live_link": "ipsum link",
       "github_link": "ipsum github link",
       "image_urls": []
@@ -22,7 +22,7 @@
       "id": 2,
       "project_name": "Interactive Form",
       "description": "ipsum",
-      "technologies": [],
+      "technologies": ["HTML", "CSS", "JS"],
       "live_link": "ipsum link",
       "github_link": "ipsum github link",
       "image_urls": []
@@ -31,7 +31,7 @@
       "id": 3,
       "project_name": "OOP Game Show App",
       "description": "ipsum",
-      "technologies": [],
+      "technologies": ["HTML", "CSS", "JS"],
       "live_link": "ipsum link",
       "github_link": "ipsum github link",
       "image_urls": []
@@ -40,7 +40,7 @@
       "id": 4,
       "project_name": "Public API Requests",
       "description": "ipsum",
-      "technologies": [],
+      "technologies": ["HTML", "CSS", "JS"],
       "live_link": "ipsum link",
       "github_link": "ipsum github link",
       "image_urls": []
@@ -49,7 +49,7 @@
       "id": 5,
       "project_name": "Static Node.js and Express Site",
       "description": "ipsum",
-      "technologies": [],
+      "technologies": ["HTML", "CSS", "JS", "Node.js", "Pug", "Express"],
       "live_link": "ipsum link",
       "github_link": "ipsum github link",
       "image_urls": []
