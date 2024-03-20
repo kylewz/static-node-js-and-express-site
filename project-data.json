@@ -3,55 +3,55 @@
     {
       "id": 0,
       "project_name": "A Random Quote Generator",
-      "description": "ipsum",
+      "description": "A webpage that displays a random quote from a pre-selected group of quotes about coding. Quotes cycle on a timer or can be progressed by clicking on a button.",
       "technologies": ["HTML", "CSS", "JS"],
-      "live_link": "ipsum link",
-      "github_link": "ipsum github link",
-      "image_urls": []
+      "live_link": "https://kylewz.github.io/random-quote-generator/",
+      "github_link": "https://github.com/kylewz/random-quote-generator",
+      "image_urls": ["../public/images/"]
     },
     {
       "id": 1,
       "project_name": "Data Pagination and Filtering",
-      "description": "ipsum",
+      "description": "An online directory of 42 students, paginated with the ability to use a search bar to filter by student name.",
       "technologies": ["HTML", "CSS", "JS"],
-      "live_link": "ipsum link",
-      "github_link": "ipsum github link",
-      "image_urls": []
+      "live_link": "https://kylewz.github.io/data-pagination-filtering",
+      "github_link": "https://github.com/kylewz/data-pagination-filtering",
+      "image_urls": ["../public/images/"]
     },
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "ipsum",
+      "description": "An mock interactive registration form for mock Full Stack Conference, collecing personal registration info as well as dynamically providing optional module sign up, tshirt design choice, and providing a total with mock payment processing.",
       "technologies": ["HTML", "CSS", "JS"],
-      "live_link": "ipsum link",
-      "github_link": "ipsum github link",
+      "live_link": "https://kylewz.github.io/interactive-form/",
+      "github_link": "https://github.com/kylewz/interactive-form/",
       "image_urls": []
     },
     {
       "id": 3,
       "project_name": "OOP Game Show App",
-      "description": "ipsum",
-      "technologies": ["HTML", "CSS", "JS"],
-      "live_link": "ipsum link",
-      "github_link": "ipsum github link",
+      "description": "A online game app where the player must guess a randomly provided phrase before using up all their attempts. Players click the page keyboard letters to guess letters in the hidden phrase. Correct letters are revealed while wrong letters cost the player a heart. Players who guess wrongly 5 times will lose.",
+      "technologies": ["HTML", "CSS", "JS", "OOP approach"],
+      "live_link": "https://kylewz.github.io/oop-game-show-app/",
+      "github_link": "https://github.com/kylewz/oop-game-show-app/",
       "image_urls": []
     },
     {
       "id": 4,
       "project_name": "Public API Requests",
-      "description": "ipsum",
-      "technologies": ["HTML", "CSS", "JS"],
-      "live_link": "ipsum link",
-      "github_link": "ipsum github link",
+      "description": "A mock employee directory that populates a web page with 12 employees populated with API requests. The directory provides received personel information, and allows the user to click on an employee for a pop-up modal that provides more information about the employee. The modal allows moving forward or backward through the directory listings.",
+      "technologies": ["HTML", "CSS", "JS", "API requests"],
+      "live_link": "https://kylewz.github.io/public-api-requests-employee-directory/",
+      "github_link": "https://github.com/kylewz/public-api-requests-employee-directory/",
       "image_urls": []
     },
     {
       "id": 5,
       "project_name": "Static Node.js and Express Site",
-      "description": "ipsum",
+      "description": "A static site to function as a portfolio for my past projects. Inculdes a main landing page as well as routes for each specific project, including this one: a project page for the very website being used right now to show the project page.",
       "technologies": ["HTML", "CSS", "JS", "Node.js", "Pug", "Express"],
-      "live_link": "ipsum link",
-      "github_link": "ipsum github link",
+      "live_link": "https://kylewz.github.io/static-node-js-and-express-site",
+      "github_link": "https://github.com/kylewz/static-node-js-and-express-site",
       "image_urls": []
     }
   ]
