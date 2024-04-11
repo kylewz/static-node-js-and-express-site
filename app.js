@@ -14,6 +14,11 @@ app.get('/', (req, res) => {
   res.render('index');
 });
 
+app.use((req, res, next) => {
+  console.log('Route not found');
+  next(err);
+});
+
 app.listen(3000, (err) => {
   if (err) {
     console.log(err);
