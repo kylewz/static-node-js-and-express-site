@@ -3,19 +3,23 @@
 // Requirements
 const express = require('express');
 const path = require('path');
-const { projects } = require('./project-data.json');
 const pug = require('pug');
+const bodyParser = require('body-parser');
+
+// Include JSON project data file
+const { projects } = require('./project-data.json');
+
 const app = express();
 
 // Set view engine to Pug
 app.set('view engine', 'pug');
+app.use(bodyParser.urlencoded({ extended: false }));
 
-app.get('/', (req, res) => {
-  res.render('index');
-});
-
+// Handle 404 errors
 app.use((req, res, next) => {
-  console.log('Route not found');
+  console.log('Request for ' + req.url + ' not found');
+  const err = new Error('Why do you seek that which does not exist?');
+  err.status = 404;
   next(err);
 });
 
