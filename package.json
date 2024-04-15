@@ -4,6 +4,7 @@
   "description": "A static site to function as a portfolio for Treehouse projects, using Node.js, Express, and Pug",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kyle Zvejnieks",
