@@ -8,7 +8,7 @@ const bodyParser = require('body-parser');
 const routerIndex = require('./routes');
 
 // Include JSON project data file
-const { projects } = require('./project-data.json');
+const { projects } = require('./data.json');
 
 const app = express();
 
