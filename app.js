@@ -8,8 +8,6 @@ const bodyParser = require('body-parser');
 const routerIndex = require('./routes');
 
 // Include JSON project data file
-const { projects } = require('./data.json');
-
 const app = express();
 
 // Set view engine to Pug
